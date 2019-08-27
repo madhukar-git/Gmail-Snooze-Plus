@@ -12,9 +12,9 @@ Gmail-Snooze-Plus comes with two features:
 
 --------------------------------------------------------------
 
-###How it works?
+### How it works?
 It works using Google Apps Script, a JavaScript-based scripting language that you can set to add special functionality to your Google applications—including Gmail, Docs, Calendar, Contacts, and more. The beauty of Apps Scripts is that they run in the cloud, independent of any extension or third-party service, meaning you don't need to install anything special and you don't have to worry about handing your private communication over to another service.
 
-###How to install?
+### How to install?
 This script is an extension to the original one mentioned in this Google's blog post which can be found here: http://gmailblog.blogspot.com/2011/07/gmail-snooze-with-apps-script.html.
 Follow those install instructions along with the repository's script for added features!
